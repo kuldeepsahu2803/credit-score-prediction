@@ -1,0 +1,47 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# Data files (adjust based on your data storage strategy)
+data/
+*.csv
+*.xlsx
+*.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.out
+*.err
+
+# Configuration files
+*.ini
+*.cfg
+*.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# PyCharm/VSCode specific files
+.idea/
+.vscode/
+
+# Machine learning model files
+*.h5
+*.pkl
+*.joblib
+
+# Ignore runtime metadata
+*.ipynb_metadata/
