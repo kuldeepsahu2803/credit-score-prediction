@@ -1,0 +1,15 @@
+# Core Libraries
+pandas==1.5.3               # Data manipulation and analysis
+numpy==1.23.5               # Numerical computations
+
+# Machine Learning
+scikit-learn==1.1.3         # Machine learning algorithms and tools
+
+# Data Visualization
+matplotlib==3.6.2           # Data visualization with plots and charts
+seaborn==0.12.1             # Advanced data visualization based on Matplotlib
+
+# Additional Libraries (if applicable)
+# Uncomment below if needed
+# xgboost==1.7.3             # For Gradient Boosting (if required)
+# lightgbm==3.3.2            # For LightGBM models (if explored)
